@@ -39,7 +39,7 @@ h1 {
     height: 60px;
     width: 70px;
     margin-top: 20px;
-    margin-left: 80px;
+    margin-left: 70px;
     border: 2px solid #627058;
     border-radius: 15px;
     text-align: center;
@@ -51,12 +51,22 @@ h1 {
     height: 60px;
     width: 70px;
     margin-top: 20px;
-    margin-left: 50px;
     border: 2px solid #627058;
     border-radius: 15px;
     text-align: center;
     font-size: 35px;
     background-color: #f0ebe5;
+}
+
+#reset {
+    height: 40px;
+    width: 60px;
+    border: 2px solid #1a4158;
+    border-radius: 15px ;
+    text-align: center;
+    font-size: 17px;
+    color:#c0d4e4;
+    background-color: #1a4158;
 }
 
 #save {
