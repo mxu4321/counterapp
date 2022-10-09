@@ -1,0 +1,15 @@
+# Counter App
+
+counter box { //front look//
+    - show number on the top inside the box
+    - "+" button under the number on the left 
+    - "-" button under the number on the right
+    - "save" button under the box
+    - centered text
+}
+
+function { //in javascript//
+    - when "click" "+" increment 1
+    - when "click" "-" decrement 1
+}
+
